@@ -1,1 +1,4 @@
 Creating with GitHubDesktop from Svilkata
+More conflicts to be generated
+...
+dots
